@@ -1,10 +1,10 @@
 # Exams
 
-Herein are some humble scripting exercises for job candidates.
+Scripting exercises for job candidates.
 
 ## findz
 
-The /data directory contains files that contain host names of computers, among other information.
+Files `/data` contain lists of computer host names, among other information.
 
 Write a script that does the following:
 - Search each file for the string `app01` and replaces it with `appserver01`
